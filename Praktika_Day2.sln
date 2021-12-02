@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF Reader", "Praktika_Day2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAmin", "WinAmin\WinAmin.csproj", "{84D6AC8D-6971-4A46-BB17-6B8EDE10D7E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBackGroundWorker", "WinBackGroundWorker\WinBackGroundWorker.csproj", "{D7B4BA7F-DF9B-42BE-881A-0B45983C4682}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{84D6AC8D-6971-4A46-BB17-6B8EDE10D7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84D6AC8D-6971-4A46-BB17-6B8EDE10D7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84D6AC8D-6971-4A46-BB17-6B8EDE10D7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B4BA7F-DF9B-42BE-881A-0B45983C4682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B4BA7F-DF9B-42BE-881A-0B45983C4682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B4BA7F-DF9B-42BE-881A-0B45983C4682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B4BA7F-DF9B-42BE-881A-0B45983C4682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
