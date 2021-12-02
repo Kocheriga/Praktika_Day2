@@ -42,6 +42,7 @@ namespace WinAmin
             this.btnAW_BLEND.TabIndex = 0;
             this.btnAW_BLEND.Text = "Проявление";
             this.btnAW_BLEND.UseVisualStyleBackColor = true;
+            this.btnAW_BLEND.Click += new System.EventHandler(this.btnAW_BLEND_Click);
             // 
             // btnHOR_AW_SLIDE
             // 
@@ -51,6 +52,7 @@ namespace WinAmin
             this.btnHOR_AW_SLIDE.TabIndex = 1;
             this.btnHOR_AW_SLIDE.Text = "Горизонтальное проявление";
             this.btnHOR_AW_SLIDE.UseVisualStyleBackColor = true;
+            this.btnHOR_AW_SLIDE.Click += new System.EventHandler(this.btnHOR_AW_SLIDE_Click);
             // 
             // btnCenter_AW_SLIDE
             // 
@@ -60,6 +62,7 @@ namespace WinAmin
             this.btnCenter_AW_SLIDE.TabIndex = 2;
             this.btnCenter_AW_SLIDE.Text = "Появление из центра";
             this.btnCenter_AW_SLIDE.UseVisualStyleBackColor = true;
+            this.btnCenter_AW_SLIDE.Click += new System.EventHandler(this.btnCenter_AW_SLIDE_Click);
             // 
             // Form1
             // 
