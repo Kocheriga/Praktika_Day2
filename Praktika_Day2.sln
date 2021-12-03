@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAmin", "WinAmin\WinAmin.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBackGroundWorker", "WinBackGroundWorker\WinBackGroundWorker.csproj", "{D7B4BA7F-DF9B-42BE-881A-0B45983C4682}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAsynchDelegate", "WinAsynchDelegate\WinAsynchDelegate.csproj", "{C74E3DAE-0FEA-4606-9492-92B43AD7F61D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D7B4BA7F-DF9B-42BE-881A-0B45983C4682}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7B4BA7F-DF9B-42BE-881A-0B45983C4682}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7B4BA7F-DF9B-42BE-881A-0B45983C4682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74E3DAE-0FEA-4606-9492-92B43AD7F61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74E3DAE-0FEA-4606-9492-92B43AD7F61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74E3DAE-0FEA-4606-9492-92B43AD7F61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74E3DAE-0FEA-4606-9492-92B43AD7F61D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
