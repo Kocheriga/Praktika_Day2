@@ -16,5 +16,15 @@ namespace WinBD2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            oleDbDataAdapter1.Fill(dataSet11.Поставщики);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            oleDbDataAdapter1.Update(dataSet11);
+        }
     }
 }
