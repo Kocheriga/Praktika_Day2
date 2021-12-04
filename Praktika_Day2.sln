@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAsynchMethod4", "WinAsyn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBD", "WinBD\WinBD.csproj", "{6AA60FE1-3FC1-4898-9A29-250C5EB9BF62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBD2", "WinBD2\WinBD2.csproj", "{530E88EA-46A8-4B0B-BAC2-6D487644610F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6AA60FE1-3FC1-4898-9A29-250C5EB9BF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AA60FE1-3FC1-4898-9A29-250C5EB9BF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AA60FE1-3FC1-4898-9A29-250C5EB9BF62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530E88EA-46A8-4B0B-BAC2-6D487644610F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530E88EA-46A8-4B0B-BAC2-6D487644610F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530E88EA-46A8-4B0B-BAC2-6D487644610F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530E88EA-46A8-4B0B-BAC2-6D487644610F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
