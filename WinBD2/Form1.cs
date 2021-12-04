@@ -31,5 +31,11 @@ namespace WinBD2
             myReader.Close();
             oleDbConnection1.Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 Exercise2 = new Form3();
+            Exercise2.Show();
+        }
     }
 }
