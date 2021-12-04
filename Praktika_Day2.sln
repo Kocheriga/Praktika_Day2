@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBD", "WinBD\WinBD.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBD2", "WinBD2\WinBD2.csproj", "{530E88EA-46A8-4B0B-BAC2-6D487644610F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBD3", "WinBD3\WinBD3.csproj", "{9926FEE0-34B1-4920-AB7D-BFF79BDCFDA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{530E88EA-46A8-4B0B-BAC2-6D487644610F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{530E88EA-46A8-4B0B-BAC2-6D487644610F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{530E88EA-46A8-4B0B-BAC2-6D487644610F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9926FEE0-34B1-4920-AB7D-BFF79BDCFDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9926FEE0-34B1-4920-AB7D-BFF79BDCFDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9926FEE0-34B1-4920-AB7D-BFF79BDCFDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9926FEE0-34B1-4920-AB7D-BFF79BDCFDA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
